@@ -1,3 +1,12 @@
-auto: true
-server: true
-markdown: kramdown
+#
+# This file contains configuration flags to customize your site
+#
+
+# Name of your site (displayed in the header)
+name: Bongsu Kim
+
+# Short bio or description (displayed in the header)
+description: Web Developer
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://avatars0.githubusercontent.com/u/7078805?s=460&v=4
