@@ -1,8 +1,8 @@
 $(document).ready(function () {
     $('.user-intro h4').removeClass('hidden');
     $("#js-rotating").Morphext({
-        animation: "flip",
+        animation: "bounce",
         separator: ",",
-        speed: 2000
+        speed: 4000
     });
 });
