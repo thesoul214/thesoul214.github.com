@@ -235,3 +235,7 @@
     color: #a8e1fe;
     font-weight: bold;
 }
+
+pre.highlight{
+    padding: 2rem;
+}
