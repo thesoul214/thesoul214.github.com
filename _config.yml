@@ -19,8 +19,8 @@ user_email: "thesoul214@gmail.com" # Appears at sidebar, remove whole variable i
 linkedin: "https://www.linkedin.com/in/kim-bongsu-0a440430"
 contact_url: "https://goo.gl/forms/14Qrhb1hZx2Tdzhv1"
 
-# google_tracking_id: "UA-120953628-2"
-google_tracking_id: 
+google_tracking_id: "UA-120953628-2"
+# google_tracking_id: 
 
 disqus_shortname: "input shortname_given_by_Disqus"
 comments: 1
