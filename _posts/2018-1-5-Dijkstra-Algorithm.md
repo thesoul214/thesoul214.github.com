@@ -4,7 +4,7 @@ title:  "다익스트라 알고리즘 기초"
 date:   2018-01-05 17:00:00 +0800
 categories: IT
 tags: Algorithm Dijkstra
-comments: 1
+comments: true
 ---
 
 그래프상에서 단일 출발점에서 모든 지점까지의 최단 거리를 구하는 알고리즘이다. 최단거리 알고리즘인 shortest path problem중의 하나이다. 

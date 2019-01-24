@@ -4,7 +4,7 @@ title:  "마이크론을 그만두며"
 date:   2018-01-19 15:00:00 +0800
 categories: COMPANY
 tags: Micron
-comments: 1
+comments: true
 ---
 
 2018년 5월 중순부터 2019년 1월 중순까지 회사를 다니면서 느꼈던 내용을 정리해보고자 합니다. 
