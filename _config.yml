@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: blog for fundamentalist IT engineer 
+name: 정사원 재택근무 IT 엔지니어의 블로그
 
 # Short bio or description (displayed in the header)
-description: living in local city in Japan
+description: IT 개발에 관한 글과 생활하면서 느끼는 이런저런 내용들을 정리하는 블로그
 
 url: "https://thesoul214.github.io"
 
@@ -19,8 +19,8 @@ user_email: "thesoul214@gmail.com" # Appears at sidebar, remove whole variable i
 linkedin: "https://www.linkedin.com/in/kim-bongsu-0a440430"
 contact_url: "https://goo.gl/forms/14Qrhb1hZx2Tdzhv1"
 
-google_tracking_id: "UA-120953628-2"
-# google_tracking_id: 
+# google_tracking_id: "UA-120953628-2"
+google_tracking_id: 
 
 disqus_shortname: "https-thesoul214-github-io"
 comments: 3

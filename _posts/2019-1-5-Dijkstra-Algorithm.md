@@ -2,7 +2,7 @@
 layout: post
 title:  "다익스트라 알고리즘 기초"
 description: "학부생 때 배우는 기본적인 알고리즘인 다익스트라 알고리즘에 대해 간단한 내용 정리"
-date:   2018-01-05 17:00:00 +0800
+date:   2019-01-05 17:00:00 +0800
 categories: IT
 tags: Algorithm Dijkstra
 lang: ko_KR

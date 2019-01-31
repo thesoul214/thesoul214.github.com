@@ -2,7 +2,7 @@
 layout: post
 title:  "마이크론을 그만두며"
 description: "2018년 5월부터 근무했던 마이크론을 그만두며 느낀 점을 정리한 내용"
-date:   2018-01-19 15:00:00 +0800
+date:   2019-01-19 15:00:00 +0800
 categories: COMPANY
 tags: Micron
 lang: ko_KR
