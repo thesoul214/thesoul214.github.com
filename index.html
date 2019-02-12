@@ -28,7 +28,7 @@ css: ["index.css"]
       <li class="{% unless paginator.previous_page %}disabled{% else %}waves-effect{% endunless %}">
         {% if paginator.previous_page %}
           {% if paginator.previous_page == 1 %}
-            a href="{{site.baseurl}}/">
+            <a href="{{site.baseurl}}/">
           {% else %}
             <a href="{{site.baseurl}}/page{{paginator.previous_page}}">
           {% endif %}

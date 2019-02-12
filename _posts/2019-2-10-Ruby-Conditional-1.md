@@ -82,7 +82,7 @@ unless lang == "Ruby" then
 else
     puts "Enjoy Ruby toturial"
 end
-# 출력 : Enjoy Ruby toturial
+# 결과 : Enjoy Ruby toturial
 
 
 # if수식, unless수식
@@ -91,7 +91,7 @@ end
 debug = true
 num = 10
 puts "num = #{num}" if debug 
-# 출력 : num = 10
+# 결과 : num = 10
 ~~~
 
 
