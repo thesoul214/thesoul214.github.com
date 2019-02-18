@@ -243,3 +243,17 @@ pre.highlight{
 .highlighter-rouge{
     padding-left: 1rem;
 }
+
+.ruby_class_1 {
+    border-collapse: collapse;
+    border-spacing: 0;
+    max-width: 800px;
+    line-height: 0.7rem;
+}
+
+.ruby_class_2 {
+    border-collapse: collapse;
+    border-spacing: 0;
+    max-width: 600px;
+    line-height: 0.7rem;
+}
