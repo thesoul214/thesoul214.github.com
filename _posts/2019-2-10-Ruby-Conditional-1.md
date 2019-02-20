@@ -20,7 +20,7 @@ comments: true
 기본적인 문법은 다음과 같습니다. 
 
 ~~~ ruby
-if 조건문1 then
+if 조건문1 then
     # 조건문1이 참인 경우 동작
 elsif 조건문2 then
     # 조건문2가 참인 경우 동작
@@ -52,7 +52,7 @@ end
 
 case문에서도 then은 생략 가능합니다. 
 
-when 절에서의 값은 [when 값1, 값2, 값3] 처럼 콤마로 구분해서 나열하는 것도 가능합니다. 
+when 절에서의 값은 [when 값1, 값2, 값3] 처럼 콤마로 구분해서 나열하는 것도 가능합니다. 
 
 
 <br>
@@ -70,8 +70,8 @@ puts result
 
 
 # unless문 - if 문의 반대
-# [구문]
-# unless 조건식 then
+# 구문
+# unless 조건식 then
 #   조건식이 거짓인 경우 동작
 # else
 #   조건식이 참인 경우 동작
@@ -80,9 +80,9 @@ lang = "Ruby"
 unless lang == "Ruby" then
     puts "#{lang} is not Ruby"
 else
-    puts "Enjoy Ruby toturial"
+    puts "Enjoy Ruby tutorial"
 end
-# 결과 : Enjoy Ruby toturial
+# 결과 : Enjoy Ruby tutorial
 
 
 # if수식, unless수식
