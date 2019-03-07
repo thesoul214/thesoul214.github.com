@@ -73,7 +73,7 @@ comments: true
    
    다른 언어들과 마찬가지로, 루비에서도 메소드에 대한 접근제어자를 이용하는 것이 가능합니다. private, protected, public 3 종류가 있습니다. 기본 접근자는 public입니다. 
 
-   {:.ruby_class_3}
+   {:.table_width_700}
    |---
    | 접근제어 | 설명 |
    |:-:|:-:|
