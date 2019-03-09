@@ -58,7 +58,7 @@ comments: true
 <br>
 다음은 경기중에 찍은 사진입니다. 경기 보느라고 사진을 잘 안 찍어서 별 건 없습니다..
 
-![이미지 없음](/assets/res/kobe6.jpg){: width="80%"} 
+![이미지 없음](/assets/res/kobe66.jpg){: width="80%"} 
 ![이미지 없음](/assets/res/kobe7.jpg){: width="80%"} 
 
 바로 위 사진 가운데 있는 선수가 바로 토레스 선수입니다. 솔직히 토레스는 별로 눈에 띄지 않더라고요..
@@ -67,7 +67,7 @@ comments: true
 
 마지막으로 맥주와 함께 경기장을 찍은 사진입니다.
 
-![이미지 없음](/assets/res/kobe8.jpg){: width="640px height=360px"} 
+![이미지 없음](/assets/res/kobe88.jpg){: width="640px height=360px"} 
 
 
 
