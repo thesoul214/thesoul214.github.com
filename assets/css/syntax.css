@@ -247,3 +247,17 @@ pre.highlight{
 .table_width_800 { border-collapse: collapse; border-spacing: 0; max-width: 800px; line-height: 0.7rem;}
 .table_width_700 { border-collapse: collapse; border-spacing: 0; max-width: 700px; line-height: 0.7rem;}
 .table_width_600 { border-collapse: collapse; border-spacing: 0; max-width: 600px; line-height: 0.7rem;}
+
+li.p-header{
+    margin-left: -10px;
+    list-style: none !important;
+}
+
+.p-header > :first-child{
+    font-size: 1.6rem !important; 
+    border-bottom: 2px solid #ddd; margin-top: 2rem;
+}
+
+.p-footnote{
+    color: brown;
+}
