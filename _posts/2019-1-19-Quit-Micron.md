@@ -85,4 +85,6 @@ comments: true
 새로운 회사에서 즐겁게 일해야지!!
 {: style="font-weight: bold; text-align: center;"}
 
+<br>
+다음 글 : <a href="{{site.url}}/company/2019/04/22/Quit-Micron2.html" target="_blank">마이크론을 그만두며 - 사내 차별 보고</a>
 <br><br><br>
