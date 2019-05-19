@@ -76,7 +76,9 @@ github에 공개되어 있는 플러그인의 리스트는 하기의 url에서 �
 
 https://github.com/mackerelio/mackerel-agent-plugins
   
+<br>
 
+{:.p-footnote}
+관련 글 : <a href="{{site.url}}/server/2019/05/15/Mackerel-Agent-Description.html" target="_blank">mackerel-agent checks 플러그인</a>
 
-
-<br><br>
+<br>
