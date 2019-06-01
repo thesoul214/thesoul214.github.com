@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python + Selenium을 이용하여 chrome 자동화 - 기본 사용법 및 html 요소 조작 정리"
+title:  "Python + Selenium을 이용하여 chrome 자동화 - 기본 사용법 및 html 요소 조작 관련 정리"
 description: "selenium, web driver, google, python, chrome"
 date:   2019-05-30 12:00:00 +0800
 categories: PYTHON
