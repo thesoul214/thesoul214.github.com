@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Python + Selenium을 이용하여 chrome 자동화 - 페이지 조작 및 스크린샷 관련 정리"
-description: "selenium, web driver, google, python, chrome"
+description: "selenium, web driver, google, python, chrome, click, sleep"
 date:   2019-06-01 12:00:00 +0800
 categories: PYTHON
 tags: Scraping python selenium
