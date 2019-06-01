@@ -2,7 +2,7 @@
 layout: post
 title:  "Python과 Beautiful Soup로 웹 스크래핑"
 description: "웹 스크래핑중 가장 기본인 python Beautiful Soup를 이용하는 방법에 대해서 알아보자."
-date:   2019-05-15 12:00:00 +0800
+date:   2019-05-22 12:00:00 +0800
 categories: PYTHON
 tags: Scraping python beautifulsoup4
 lang: ko_KR
