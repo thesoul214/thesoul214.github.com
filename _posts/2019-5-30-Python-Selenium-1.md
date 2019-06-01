@@ -10,7 +10,7 @@ comments: true
 ---
 
 
-Python, Chrome, Selenium을 이용하여 html 태그 취득, 마우스 클릭 등의 UI조작, 대기, 페이지 전체 스크린샷등 기본적인 내용을 정리하겠습니다.
+Python, Chrome, Selenium을 이용하여 html 태그 취득, 마우스 클릭 등의 UI조작과 관련된 기본적인 내용을 정리하겠습니다.
 
 
 <br>
