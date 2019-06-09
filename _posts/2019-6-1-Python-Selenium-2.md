@@ -225,5 +225,9 @@ ajax 를 많이 사용하여 작성된 페이지에 대해서, 요소 추가 등
    driver.get_screenshot_as_base64()
    ~~~
 
+   <br>
+
+   python scraping에 관한 포스트 모음 : <a href="{{site.url}}/tags#scraping_cap" target="_blank">Tags - Scraping</a>
+   {: style="font-weight: bold; color: brown; text-align: center;"}
 
 <br><br>

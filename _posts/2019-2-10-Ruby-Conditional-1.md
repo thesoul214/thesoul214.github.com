@@ -4,7 +4,7 @@ title:  "Ruby 조건문 - 기초"
 description: "Ruby의 조건문의 기본적인 문법에 대해서 알아보고자 합니다."
 date:   2019-02-10 15:00:00 +0800
 categories: RUBY
-tags: Ruby Programming
+tags: Ruby
 lang: ko_KR
 comments: true
 ---
@@ -95,6 +95,10 @@ puts "num = #{num}" if debug
 ~~~
 
 
+<br>
+
+Ruby에 관한 포스트 모음 : <a href="{{site.url}}/tags#ruby_cap" target="_blank">Tags - Ruby</a>
+{: style="font-weight: bold; color: brown; text-align: center;"}
 
 
 

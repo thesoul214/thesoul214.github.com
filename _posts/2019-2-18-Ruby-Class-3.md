@@ -4,7 +4,7 @@ title:  "Ruby 클래스 - 확장"
 description: "Ruby의 클래스, 메소드에 대해 좀 더 자세한 내용을 알아보자."
 date:   2019-02-18 22:00:00 +0800
 categories: RUBY
-tags: Ruby Programming
+tags: Ruby
 lang: ko_KR
 comments: true
 ---
@@ -286,6 +286,9 @@ str.module_method
 # hello
 ~~~
 
+<br>
 
+Ruby에 관한 포스트 모음 : <a href="{{site.url}}/tags#ruby_cap" target="_blank">Tags - Ruby</a>
+{: style="font-weight: bold; color: brown; text-align: center;"}
 
-<br><br><br>
+<br><br>

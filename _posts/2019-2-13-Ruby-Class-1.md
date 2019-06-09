@@ -4,7 +4,7 @@ title:  "Ruby 클래스 - 기초1"
 description: "Ruby의 클래스에 대해서 알아보고자 합니다."
 date:   2019-02-13 20:00:00 +0800
 categories: RUBY
-tags: Ruby Programming
+tags: Ruby
 lang: ko_KR
 comments: true
 ---
@@ -142,4 +142,9 @@ end
     위의 코드에서 알수 있듯이, 인스턴스 변수에 값을 할당하기 위해 굳이 setName과 같은 메소드를 정의해 주지 않아도 됩니다. 
 
 
-<br><br><br>
+<br>
+
+Ruby에 관한 포스트 모음 : <a href="{{site.url}}/tags#ruby_cap" target="_blank">Tags - Ruby</a>
+{: style="font-weight: bold; color: brown; text-align: center;"}
+
+<br><br>

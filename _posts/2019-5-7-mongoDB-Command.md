@@ -315,6 +315,12 @@ MongoDB에 저장된 데이터를 조작하는 방법 중 하나로, 커맨드�
     name, secret 필드를 생성해서 name 필드에는 client_id 필드의 값, secret 필드에는 client_secret 필드의 값을 할당한다.
 
 
+   <br>
+
+   MongoDB에 관한 포스트 모음 : <a href="{{site.url}}/tags#mongodb_cap" target="_blank">Tags - MongoDB</a>
+   {: style="font-weight: bold; color: brown; text-align: center;"}
+
+
 
 
 <br><br>

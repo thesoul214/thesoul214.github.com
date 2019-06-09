@@ -4,7 +4,7 @@ title:  "mackerel-agent checks 플러그인"
 description: "서버의 리소스를 시각화 하거나 감시할 수 있는 서비스인 Mackerel. 감시하고 싶은 호스트에 설치하여 리소스나 성능을 쉽게 파악할 수 있게 해주는 mackerel-agent에 모니터링 기능으로 추가하는 checks 플러그인에 대해서 알아보겠습니다."
 date:   2019-05-15 12:00:00 +0800
 categories: SERVER
-tags: Monitoring
+tags: Monitoring Mackerel
 lang: ko_KR
 comments: true
 ---
@@ -166,4 +166,8 @@ sudo service mackerel-agent restart
 정상적으로 설정될 경우, Mackerel Host화면의 Monitors부분에 설정한 플러그인이 표시됩니다.
 
 
+<br>
+
+mackerel에 관한 포스트 모음 : <a href="{{site.url}}/tags#mackerel_cap" target="_blank">Tags - Mackerel</a>
+{: style="font-weight: bold; color: brown; text-align: center;"}
 <br><br>

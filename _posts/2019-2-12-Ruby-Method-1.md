@@ -4,7 +4,7 @@ title:  "Ruby 메소드 - 기초"
 description: "Ruby의 메소드에 대해서 알아보고자 합니다."
 date:   2019-02-12 20:00:00 +0800
 categories: RUBY
-tags: Ruby Programming
+tags: Ruby
 lang: ko_KR
 comments: true
 ---
@@ -138,4 +138,9 @@ end
 ~~~
 
 
-<br><br><br>
+<br>
+
+Ruby에 관한 포스트 모음 : <a href="{{site.url}}/tags#ruby_cap" target="_blank">Tags - Ruby</a>
+{: style="font-weight: bold; color: brown; text-align: center;"}
+
+<br><br>

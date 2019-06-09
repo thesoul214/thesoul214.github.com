@@ -4,7 +4,7 @@ title:  "Mackerel - 서버 리소스 시각화 및 감시 서비스 기초"
 description: "서버의 리소스를 시각화 하거나 감시할 수 있는 서비스인 Mackerel에 대해서 알아보고자 합니다."
 date:   2019-05-13 12:00:00 +0800
 categories: SERVER
-tags: Monitoring
+tags: Monitoring Mackerel
 lang: ko_KR
 comments: true
 ---
@@ -76,9 +76,10 @@ github에 공개되어 있는 플러그인의 리스트는 하기의 url에서 �
 
 https://github.com/mackerelio/mackerel-agent-plugins
   
+
 <br>
 
-{:.p-footnote}
-관련 글 : <a href="{{site.url}}/server/2019/05/15/Mackerel-Agent-Description.html" target="_blank">mackerel-agent checks 플러그인</a>
+mackerel에 관한 포스트 모음 : <a href="{{site.url}}/tags#mackerel_cap" target="_blank">Tags - Mackerel</a>
+{: style="font-weight: bold; color: brown; text-align: center;"}
 
 <br>

@@ -4,7 +4,7 @@ title:  "Ruby 클래스 - 기초2"
 description: "Ruby의 클래스, 메소드에 대해서 알아봅시다."
 date:   2019-02-18 20:00:00 +0800
 categories: RUBY
-tags: Ruby Programming
+tags: Ruby
 lang: ko_KR
 comments: true
 ---
@@ -124,6 +124,10 @@ comments: true
    ~~~
 
 
+<br>
+
+Ruby에 관한 포스트 모음 : <a href="{{site.url}}/tags#ruby_cap" target="_blank">Tags - Ruby</a>
+{: style="font-weight: bold; color: brown; text-align: center;"}
 
 
 <br><br><br>

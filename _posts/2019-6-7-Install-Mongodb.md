@@ -190,5 +190,10 @@ MacOS에 Homebrew를 이용해서 MongoDB를 설치하는 순서와 간단한 �
 
    첫 번째 방법을 다른 유저들과 같이 사용하는 서버에서 사용하게 될 경우, 비밀번호가 노출되므로 사용하지 않는 것이 좋습니다.
 
+   <br>
+
+   MongoDB에 관한 포스트 모음 : <a href="{{site.url}}/tags#mongodb_cap" target="_blank">Tags - MongoDB</a>
+   {: style="font-weight: bold; color: brown; text-align: center;"}
+
 
 <br><br>

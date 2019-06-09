@@ -192,5 +192,10 @@ Python, Chrome, Selenium을 이용하여 html 태그 취득, 마우스 클릭 �
    select.options
    ~~~
 
+   <br>
+
+   python scraping에 관한 포스트 모음 : <a href="{{site.url}}/tags#scraping_cap" target="_blank">Tags - Scraping</a>
+   {: style="font-weight: bold; color: brown; text-align: center;"}
+
 
 <br><br>

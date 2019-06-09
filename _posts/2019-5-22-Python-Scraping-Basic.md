@@ -111,4 +111,11 @@ python 라이브러리 중 하나로, 스크래핑에 특화된 모듈인 beauti
     ~~~
     반대로 새로운 태그를 생성하기 위해서는 wrap 함수를 사용하면 됩니다.
 
+
+   <br>
+
+   python scraping에 관한 포스트 모음 : <a href="{{site.url}}/tags#scraping_cap" target="_blank">Tags - Scraping</a>
+   {: style="font-weight: bold; color: brown; text-align: center;"}
+
+
 <br><br>
