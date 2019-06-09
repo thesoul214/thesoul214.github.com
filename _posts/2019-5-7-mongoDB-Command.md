@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MongoDB 커맨드 및 메소드 정리"
-description: "mongoDB에서 데이터를 조작하기 위해 사용하는 mongoDB Shell에서 사용하는 커맨드나 메소드를 정리하고자 합니다."
+description: "mongoDB에서 데이터를 조작하기 위해 사용하는 mongoDB Shell에서 사용하는 커맨드나 메소드를 정리하고자 합니다. mongodb find, mongodb update, mongodb, 몽고DB"
 date:   2019-05-07 12:00:00 +0800
 categories: DATABASE
 tags: MongoDB NoSQL
