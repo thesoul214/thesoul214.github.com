@@ -109,17 +109,18 @@ collection이 존재하지 않는 경우, insert 메소드는 새로운 collecti
    # {u'salary': 400, u'_id': ObjectId('57611a711aa303032ad5ba9b'), u'name': u'kim'}
    ~~~
 
-   위의 find메소드들의 조건은 다음과 같이 지정해 줄 수 있습니다.
+<br>
+위의 find메소드들의 조건은 다음과 같이 지정해 줄 수 있습니다.
 
-   ~~~python
-   # object를 리턴
-   col.find_one({"name": "kim"})
+~~~python
+# object를 리턴
+col.find_one({"name": "kim"})
 
-   # cursor object를 리턴
-   col.find({"name": "kim"})
-   ~~~
+# cursor object를 리턴
+col.find({"name": "kim"})
+~~~
 
-   상기는 name 필드가 kim인 document를 읽어오는 코드입니다.
+상기는 name 필드가 kim인 document를 읽어오는 코드입니다.
 
 
 <br>
