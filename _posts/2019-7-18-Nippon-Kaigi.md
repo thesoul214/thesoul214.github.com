@@ -2,7 +2,7 @@
 layout: post
 title:  "일본 국회의원 4할이 참가하는 수수께기 단체 [일본회의] 란 "
 description: "japan, abe, 일본회의, 극우, 우익, 제국주의, 역사수정자, 역사수정주의, 일본제국"
-date:   2019-07-13 12:00:00 +0800
+date:   2019-07-18 12:00:00 +0800
 categories: JAPANPOLITICS
 tags: JapanPolitics
 lang: ko_KR
